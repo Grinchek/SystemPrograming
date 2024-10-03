@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\System_programing\SystemPrograming\02_threads\bin\Debug\net8.0\02_threads.exe
+C:\Users\User\Desktop\System_programing\SystemPrograming\02_threads\bin\Debug\net8.0\02_threads.deps.json
+C:\Users\User\Desktop\System_programing\SystemPrograming\02_threads\bin\Debug\net8.0\02_threads.runtimeconfig.json
+C:\Users\User\Desktop\System_programing\SystemPrograming\02_threads\bin\Debug\net8.0\02_threads.dll
+C:\Users\User\Desktop\System_programing\SystemPrograming\02_threads\bin\Debug\net8.0\02_threads.pdb
+C:\Users\User\Desktop\System_programing\SystemPrograming\02_threads\obj\Debug\net8.0\02_threads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\System_programing\SystemPrograming\02_threads\obj\Debug\net8.0\02_threads.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\System_programing\SystemPrograming\02_threads\obj\Debug\net8.0\02_threads.AssemblyInfo.cs
+C:\Users\User\Desktop\System_programing\SystemPrograming\02_threads\obj\Debug\net8.0\02_threads.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\System_programing\SystemPrograming\02_threads\obj\Debug\net8.0\02_threads.sourcelink.json
+C:\Users\User\Desktop\System_programing\SystemPrograming\02_threads\obj\Debug\net8.0\02_threads.dll
+C:\Users\User\Desktop\System_programing\SystemPrograming\02_threads\obj\Debug\net8.0\refint\02_threads.dll
+C:\Users\User\Desktop\System_programing\SystemPrograming\02_threads\obj\Debug\net8.0\02_threads.pdb
+C:\Users\User\Desktop\System_programing\SystemPrograming\02_threads\obj\Debug\net8.0\02_threads.genruntimeconfig.cache
+C:\Users\User\Desktop\System_programing\SystemPrograming\02_threads\obj\Debug\net8.0\ref\02_threads.dll

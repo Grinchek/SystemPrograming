@@ -1,0 +1,3 @@
+Maximum is: 9998
+Minimum is: 0
+Average is: 5025,1121
