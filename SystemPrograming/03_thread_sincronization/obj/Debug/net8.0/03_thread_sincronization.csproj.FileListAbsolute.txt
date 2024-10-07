@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\System_programing\SystemPrograming\03_thread_sincronization\bin\Debug\net8.0\03_thread_sincronization.exe
+C:\Users\User\Desktop\System_programing\SystemPrograming\03_thread_sincronization\bin\Debug\net8.0\03_thread_sincronization.deps.json
+C:\Users\User\Desktop\System_programing\SystemPrograming\03_thread_sincronization\bin\Debug\net8.0\03_thread_sincronization.runtimeconfig.json
+C:\Users\User\Desktop\System_programing\SystemPrograming\03_thread_sincronization\bin\Debug\net8.0\03_thread_sincronization.dll
+C:\Users\User\Desktop\System_programing\SystemPrograming\03_thread_sincronization\bin\Debug\net8.0\03_thread_sincronization.pdb
+C:\Users\User\Desktop\System_programing\SystemPrograming\03_thread_sincronization\obj\Debug\net8.0\03_thread_sincronization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\System_programing\SystemPrograming\03_thread_sincronization\obj\Debug\net8.0\03_thread_sincronization.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\System_programing\SystemPrograming\03_thread_sincronization\obj\Debug\net8.0\03_thread_sincronization.AssemblyInfo.cs
+C:\Users\User\Desktop\System_programing\SystemPrograming\03_thread_sincronization\obj\Debug\net8.0\03_thread_sincronization.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\System_programing\SystemPrograming\03_thread_sincronization\obj\Debug\net8.0\03_thread_sincronization.sourcelink.json
+C:\Users\User\Desktop\System_programing\SystemPrograming\03_thread_sincronization\obj\Debug\net8.0\03_thread_sincronization.dll
+C:\Users\User\Desktop\System_programing\SystemPrograming\03_thread_sincronization\obj\Debug\net8.0\refint\03_thread_sincronization.dll
+C:\Users\User\Desktop\System_programing\SystemPrograming\03_thread_sincronization\obj\Debug\net8.0\03_thread_sincronization.pdb
+C:\Users\User\Desktop\System_programing\SystemPrograming\03_thread_sincronization\obj\Debug\net8.0\03_thread_sincronization.genruntimeconfig.cache
+C:\Users\User\Desktop\System_programing\SystemPrograming\03_thread_sincronization\obj\Debug\net8.0\ref\03_thread_sincronization.dll
