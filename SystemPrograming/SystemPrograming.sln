@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_threads", "02_threads\02
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_thread_sincronization", "03_thread_sincronization\03_thread_sincronization.csproj", "{625031C5-A820-40B2-8965-25C72C70C9DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_tasks", "04_tasks\04_tasks.csproj", "{88A9D527-C8A7-4915-8BB5-455F09355E19}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04_tasks", "04_tasks\04_tasks.csproj", "{88A9D527-C8A7-4915-8BB5-455F09355E19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_async_await", "05_async_await\05_async_await.csproj", "{610489BF-B62D-4ECF-B4EA-B46A793F12F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{88A9D527-C8A7-4915-8BB5-455F09355E19}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88A9D527-C8A7-4915-8BB5-455F09355E19}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88A9D527-C8A7-4915-8BB5-455F09355E19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{610489BF-B62D-4ECF-B4EA-B46A793F12F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{610489BF-B62D-4ECF-B4EA-B46A793F12F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{610489BF-B62D-4ECF-B4EA-B46A793F12F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{610489BF-B62D-4ECF-B4EA-B46A793F12F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
