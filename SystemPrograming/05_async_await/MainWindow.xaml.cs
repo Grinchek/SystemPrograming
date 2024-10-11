@@ -29,6 +29,11 @@ namespace _05_async_await
         static string source = "";
         static string destination = "";
         static Random random = new Random();
+        static Task CopyFileAsync()
+        {
+           return Task.Run(()=> File.Copy(source, destination + "\\copy" + Path.GetFileName(source)));
+
+        }
         public MainWindow()
         {
             InitializeComponent();
@@ -46,6 +51,7 @@ namespace _05_async_await
             if (dialog.ShowDialog() == CommonFileDialogResult.Ok)
             {
                 source = dialog.FileName;
+                from.Text = source;
                 MessageBox.Show("You selected: " + dialog.FileName);
             }
         }
@@ -60,20 +66,21 @@ namespace _05_async_await
             if (dialog.ShowDialog() == CommonFileDialogResult.Ok)
             {
                 destination = dialog.FileName;
+                to.Text= destination;
                 MessageBox.Show("You selected: " + dialog.FileName);
             }
 
         }
         private async void Button_Click_3(object sender, RoutedEventArgs e)
         {
-            File.Copy(source, destination + "\\copy" + Path.GetFileName(source));
+            await CopyFileAsync();
             MessageBox.Show($"Complited");
         }
         private async void Button_Click_4(object sender, RoutedEventArgs e)
         {
             source = from.Text;
             destination = to.Text;
-            File.Copy(source, destination + "\\copy" + Path.GetFileName(source));
+            await CopyFileAsync();
             MessageBox.Show($"Complited");
         }
     }

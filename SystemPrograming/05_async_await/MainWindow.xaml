@@ -7,13 +7,13 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <DockPanel>
-        <ToolBar DockPanel.Dock="Top">
+        <ToolBar DockPanel.Dock="Top" Padding="10">
 
             <Button Click="Button_Click_1">Select File</Button>
             <Button Click="Button_Click_2">Select Folder</Button>
             <Button Click="Button_Click_3">Copy</Button>
-            <TextBox x:Name="from" Width="100">from</TextBox>
-            <TextBox Name="to" Width="100">to</TextBox>
+            <TextBox x:Name="from" Width="250"></TextBox>
+            <TextBox Name="to" Width="250"></TextBox>
             <Button Click="Button_Click_4">OK</Button>
         </ToolBar>
         <ListBox x:Name="list"></ListBox>
