@@ -13,6 +13,16 @@ namespace _06_TaskParalel
             }
             return result;
         }
+        static void FactorialVoid(int num)
+        {
+            int result = 1;
+            for (int i = 1; i <= num; i++)
+            {
+                result *= i;
+            }
+            Console.WriteLine($"Factorial {num}: {result}");
+
+        }
         static int FactorialCounter(int num)
         {            
             string factorial=Factorial(num).ToString();
@@ -50,7 +60,13 @@ namespace _06_TaskParalel
             //int startRange = 2;
             //int endRange = 6;
             //Parallel.For(startRange, endRange, MultiplicationTable);
-            Rando
+            Random random = new Random();
+            List<int> array = new List<int>();
+            for (int i = 0; i <=10 ; i++)
+            {
+                array.Add(random.Next(11));
+            }
+            Parallel.ForEach(array,FactorialVoid);
 
         }
 
