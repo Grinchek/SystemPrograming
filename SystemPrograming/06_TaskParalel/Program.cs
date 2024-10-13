@@ -1,4 +1,5 @@
 ﻿using System.Threading.Channels;
+using System.Text.Json;
 
 namespace _06_TaskParalel
 {
@@ -49,6 +50,40 @@ namespace _06_TaskParalel
             Console.WriteLine("///////////////////////////////////////////////");
 
         }
+        static List<int> SerializeDeserialize(List<int> arr)
+        {
+            foreach (int i in arr)
+            {
+                Console.Write($"[{i}]");
+            }
+            Console.WriteLine();
+            string fileName = "array.json";
+            using FileStream createStream = File.Create(fileName);
+            JsonSerializer.Serialize(createStream, arr);
+            createStream.Close();
+            string json = File.ReadAllText(fileName);
+            return JsonSerializer.Deserialize<List<int>>(json);
+
+        }
+        static int PlinqMax(List<int> list) 
+        {
+            var max = list.AsParallel()
+                          .Max();
+            return max;  
+        }
+        static int PlinqMin(List<int> list)
+        {
+            var max = list.AsParallel()
+                          .Min();
+            return max;
+        }
+        static int PlinqSum(List<int> list)
+        {
+            var max = list.AsParallel()
+                          .Sum();
+            return max;
+        }
+
         static void Main(string[] args)
         {
             // # 1 - 2
@@ -62,11 +97,18 @@ namespace _06_TaskParalel
             //Parallel.For(startRange, endRange, MultiplicationTable);
             Random random = new Random();
             List<int> array = new List<int>();
-            for (int i = 0; i <=10 ; i++)
+            for (int i = 0; i <= 10; i++)
             {
                 array.Add(random.Next(11));
             }
-            Parallel.ForEach(array,FactorialVoid);
+            // #4
+            //Parallel.ForEach(array,FactorialVoid);
+
+            List<int> list = SerializeDeserialize(array);
+            Console.WriteLine($"Maximum value: {PlinqMax(list)}\n" +
+                $"Minimum value: {PlinqMin(list)}\n" +
+                $"Summa of values: {PlinqSum(list)}");
+
 
         }
 
