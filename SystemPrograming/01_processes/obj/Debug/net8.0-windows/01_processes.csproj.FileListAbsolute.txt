@@ -18,3 +18,24 @@ C:\Users\User\Desktop\System_programing\SystemPrograming\01_processes\obj\Debug\
 C:\Users\User\Desktop\System_programing\SystemPrograming\01_processes\obj\Debug\net8.0-windows\01_processes.pdb
 C:\Users\User\Desktop\System_programing\SystemPrograming\01_processes\obj\Debug\net8.0-windows\01_processes.genruntimeconfig.cache
 C:\Users\User\Desktop\System_programing\SystemPrograming\01_processes\obj\Debug\net8.0-windows\ref\01_processes.dll
+C:\Users\User\Desktop\system progranming\SystemPrograming\01_processes\bin\Debug\net8.0-windows\01_processes.exe
+C:\Users\User\Desktop\system progranming\SystemPrograming\01_processes\bin\Debug\net8.0-windows\01_processes.deps.json
+C:\Users\User\Desktop\system progranming\SystemPrograming\01_processes\bin\Debug\net8.0-windows\01_processes.runtimeconfig.json
+C:\Users\User\Desktop\system progranming\SystemPrograming\01_processes\bin\Debug\net8.0-windows\01_processes.dll
+C:\Users\User\Desktop\system progranming\SystemPrograming\01_processes\bin\Debug\net8.0-windows\01_processes.pdb
+C:\Users\User\Desktop\system progranming\SystemPrograming\01_processes\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\User\Desktop\system progranming\SystemPrograming\01_processes\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\User\Desktop\system progranming\SystemPrograming\01_processes\obj\Debug\net8.0-windows\01_processes_MarkupCompile.cache
+C:\Users\User\Desktop\system progranming\SystemPrograming\01_processes\obj\Debug\net8.0-windows\01_processes_MarkupCompile.lref
+C:\Users\User\Desktop\system progranming\SystemPrograming\01_processes\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\User\Desktop\system progranming\SystemPrograming\01_processes\obj\Debug\net8.0-windows\01_processes.g.resources
+C:\Users\User\Desktop\system progranming\SystemPrograming\01_processes\obj\Debug\net8.0-windows\01_processes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\system progranming\SystemPrograming\01_processes\obj\Debug\net8.0-windows\01_processes.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\system progranming\SystemPrograming\01_processes\obj\Debug\net8.0-windows\01_processes.AssemblyInfo.cs
+C:\Users\User\Desktop\system progranming\SystemPrograming\01_processes\obj\Debug\net8.0-windows\01_processes.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\system progranming\SystemPrograming\01_processes\obj\Debug\net8.0-windows\01_processes.sourcelink.json
+C:\Users\User\Desktop\system progranming\SystemPrograming\01_processes\obj\Debug\net8.0-windows\01_processes.dll
+C:\Users\User\Desktop\system progranming\SystemPrograming\01_processes\obj\Debug\net8.0-windows\refint\01_processes.dll
+C:\Users\User\Desktop\system progranming\SystemPrograming\01_processes\obj\Debug\net8.0-windows\01_processes.pdb
+C:\Users\User\Desktop\system progranming\SystemPrograming\01_processes\obj\Debug\net8.0-windows\01_processes.genruntimeconfig.cache
+C:\Users\User\Desktop\system progranming\SystemPrograming\01_processes\obj\Debug\net8.0-windows\ref\01_processes.dll

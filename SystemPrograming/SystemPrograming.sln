@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04_tasks", "04_tasks\04_tas
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05_async_await", "05_async_await\05_async_await.csproj", "{610489BF-B62D-4ECF-B4EA-B46A793F12F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_TaskParalel", "06_TaskParalel\06_TaskParalel.csproj", "{09B1C482-CD80-4564-B987-8173300C2AF1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06_TaskParalel", "06_TaskParalel\06_TaskParalel.csproj", "{09B1C482-CD80-4564-B987-8173300C2AF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_SystemProgrammingExam", "07_SystemProgrammingExam\07_SystemProgrammingExam.csproj", "{8A388524-6A62-4595-ABF2-D675FFDB0F0A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{09B1C482-CD80-4564-B987-8173300C2AF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09B1C482-CD80-4564-B987-8173300C2AF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09B1C482-CD80-4564-B987-8173300C2AF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A388524-6A62-4595-ABF2-D675FFDB0F0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A388524-6A62-4595-ABF2-D675FFDB0F0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A388524-6A62-4595-ABF2-D675FFDB0F0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A388524-6A62-4595-ABF2-D675FFDB0F0A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
